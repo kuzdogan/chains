@@ -12,11 +12,13 @@
   "shortName": "AlyxTestnet",
   "chainId": 135,
   "networkId": 135,
+  "slip44": 1,
   "explorers": [
     {
       "name": "alyx testnet scan",
       "url": "https://testnet.alyxscan.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": "alyx"
 }
